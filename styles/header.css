@@ -2,9 +2,9 @@ header {
     display: flex;
     align-items: center;
     text-align: center;
-    background-color: #d8557b;
+    background-color: #f4e8da;
     width: 100%;
-    height: 120px;
+    height: 110px;
 }
 
 header div {
